@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "cemiterios_mcz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "Latitude": -9.627, "Longitude": -35.7464, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.7464, -9.627 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.6678, "Longitude": -35.7466, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.7466, -9.6678 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.6694, "Longitude": -35.7187, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.7187, -9.6694 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.58027, "Longitude": -35.8019, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.8019, -9.58027 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.5878, "Longitude": -35.7796, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.7796, -9.5878 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.5287, "Longitude": -35.6094, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.6094, -9.5287 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.5757, "Longitude": -35.6577, "nome": null, "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Cristã", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.6577, -9.5757 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.6031, "Longitude": -35.7435, "nome": "Cemitério Campo Santo Parque das Flores", "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Não aplicável", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.740517883828339, -9.603104966675554 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.6725, "Longitude": -35.7532, "nome": "Cemitério São José", "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Não aplicável", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.753254131874712, -9.672183524296289 ] } },
+{ "type": "Feature", "properties": { "Latitude": -9.5346, "Longitude": -35.7265, "nome": "Cemitério Memorial Parque Maceió", "geometriaa": "Não", "tipocemite": "Comum", "denominaca": "Não aplicável", "destinacao": "Humanos", "organizaca": null, "CD_MUN": 2704302, "NM_MUN": "Maceió" }, "geometry": { "type": "Point", "coordinates": [ -35.726505193494297, -9.534608280538791 ] } }
+]
+}
