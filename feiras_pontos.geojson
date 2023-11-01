@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "feiras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Feirinha do Benedito Bentes", "Latitude": -9.5511, "Longitude": -35.7276, "Bairro": "Benedito Bentes" }, "geometry": { "type": "Point", "coordinates": [ -35.72755, -9.551125, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feira", "Latitude": -9.6604, "Longitude": -35.7237, "Bairro": "Poço" }, "geometry": { "type": "Point", "coordinates": [ -35.7236753, -9.6603726, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feirinha Do Cleto", "Latitude": -9.5695, "Longitude": -35.7564, "Bairro": "Tabuleiro do Martins" }, "geometry": { "type": "Point", "coordinates": [ -35.7564142, -9.5695124, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feirinha da UFAL", "Latitude": -9.5553, "Longitude": -35.7778, "Bairro": "Cidade Universitária" }, "geometry": { "type": "Point", "coordinates": [ -35.7778285, -9.5552571, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feirinha do Tabuleiro", "Latitude": -9.5858, "Longitude": -35.7675, "Bairro": "Tabuleiro do Martins" }, "geometry": { "type": "Point", "coordinates": [ -35.767477, -9.5858219, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feira da Jatiúca", "Latitude": -9.6529, "Longitude": -35.711, "Bairro": "Jatiúca" }, "geometry": { "type": "Point", "coordinates": [ -35.711039, -9.6529386, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feira Comunitária De Fernão Velho", "Latitude": -9.5908, "Longitude": -35.7869, "Bairro": "Fernão Velho" }, "geometry": { "type": "Point", "coordinates": [ -35.7868548, -9.5907561, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feira Livre Ouro Preto", "Latitude": -9.6026, "Longitude": -35.7305, "Bairro": "Ouro Preto" }, "geometry": { "type": "Point", "coordinates": [ -35.7305048, -9.6025607, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feirinha do Village", "Latitude": -9.5467, "Longitude": -35.7512, "Bairro": "Cidade Universitária" }, "geometry": { "type": "Point", "coordinates": [ -35.7512022, -9.5466958, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feira Livre", "Latitude": -9.6527, "Longitude": -35.7108, "Bairro": "Jatiúca" }, "geometry": { "type": "Point", "coordinates": [ -35.710822, -9.6526743, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Feirinha de produtos da roça", "Latitude": -9.6473, "Longitude": -35.7051, "Bairro": "Jatiúca" }, "geometry": { "type": "Point", "coordinates": [ -35.7050861, -9.6472706, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mercado da Produção", "Latitude": -9.6597, "Longitude": -35.7438, "Bairro": "Levada" }, "geometry": { "type": "Point", "coordinates": [ -35.7437667, -9.6597194, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mercado Popular", "Latitude": -9.6607, "Longitude": -35.7419, "Bairro": "Centro" }, "geometry": { "type": "Point", "coordinates": [ -35.741892, -9.6607022, 0.0 ] } }
+]
+}
